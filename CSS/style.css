@@ -9,45 +9,43 @@ header {
   background-color: white;
   z-index: 1000;
 }
+/* comment */
 .gotohome{
   max-width: 268px;
 }
+/* comment */
 #About{
   color: #00b39b;
     text-decoration: none;
 }
+/* comment */
 #Career, #Departments {
   color: #ababab;
 }
+/* comment */
 .navtools {
   display: flex;
   gap: 1.5rem;
 }
+/* comment */
 .round{
   height: 70px;
   width: 70px; 
   margin: 30px 0px 40px 500px;
   
 }
-ul{
-  display: flex;
-  list-style: none;
-  float: right;
-}
-li{
-  padding: 0px;
-  color: brown;
-  margin: 0px 0px 40px 100px;
-}
+/* comment */
 h1{
   text-align: center;
   font-weight: lighter;
   color: #00b39b;
   font-size: xx-large;
 } 
+/* comment */
 p {
   margin: 0 0 10px;
 }
+/* comment */
 .flexy{
   display: flex;
   flex-direction: row;
@@ -56,17 +54,21 @@ p {
   padding: 10px;
   
 }
+/* comment */
 .div1{
  max-width:280px;
  margin: 0
 }
+/* comment */
 .div2{
   max-width:280px;
   margin: 0 0 0 40px
 }
+/* comment */
 .title{
   margin: 0 0 0 20px;
 }
+/* comment */
 .text{
   font-size: 1.5em;
     font-weight: 100;
@@ -75,6 +77,7 @@ p {
     box-sizing: border-box;width: 260px;
     margin: 0 0 0 20px;
 }
+/* comment */
 .link1{
   margin: 0px 0px 0px 20px;
   background-color:  #00ccb1;
@@ -83,6 +86,7 @@ p {
     margin-bottom: 30px;
     color: white;
 }
+/* comment */
 .link2{
   margin: 0px 0px 0px 20px;
   background-color:  #3d83df;
@@ -90,6 +94,7 @@ p {
     margin-bottom: 30px;
     color: white
 }
+/* comment */
 .link3{
   margin: 0px 0px 0px 20px;
   background-color: #1b2734;
@@ -97,37 +102,44 @@ p {
     margin-bottom: 10px;
     color: white
 }
+/* comment */
 .manage{
   height: 345px;
   width: 327px;
   border-radius: 3%;
   background-color:  #00ccb1;
 }
+/* comment */
 .manage2{
   height: 345px;
   width: 327px;
   border-radius: 3% ;
   background-color:  #3d83df;
 }
+/* comment */
 .manage3{
   height: 345px;
   width: 327px;
   border-radius: 3% ;
   background-color: #1b2734;
 }
+/* comment */
 .doctor{
   width: 25px;
   height: auto;
   margin: 0 0 0 40px;
 }
+/* comment */
 .patient{
   margin: 0 0 0 40px;
 }
+/* comment */
 .img2{
   width: 25px;
   height: auto;
   margin: 0 0 0 40px;
 }
+/* comment */
 .logo{
   display: flex;
   flex-direction: row;
@@ -135,15 +147,17 @@ p {
   justify-content: center;
   padding: 30px;
 }
+/* comment */
 .img3{
   width: 75px;
   height: auto;
- 
 }
+/* comment */
 .logos3{
   max-width: 350px;
  line-height: 1.5;
 }
+/* comment */
 .title3{
   font-size: x-large;
   max-width:250px;
@@ -152,6 +166,7 @@ p {
     font-weight: 300;
     letter-spacing: -0.3px;
 }
+/* comment */
   .div0{
     display: flex;
     justify-content: center;
@@ -160,10 +175,12 @@ p {
     background-color: #d0faf4;
     padding-left: 50px;
   } 
+  /* comment */
 .divk{
   padding-top: 60px;
   display: block;
 }
+/* comment */
  .divk h2{
   color: #00b39b;
   font-weight: 300;
@@ -171,6 +188,7 @@ p {
   padding-left: 0px;
   font-family: inherit;
  }
+ /* comment */
 .divk p{
   padding-left: 0px;
   padding-top: 20px;
@@ -179,12 +197,15 @@ p {
   padding-bottom: 50px;
   margin: 0 0 10px;
 }
+/* comment */
 .divk img{
   padding-left: 0px;
 }
+/* comment */
 p{
   margin: 0 0 10px;
 }
+/* comment */
 .divy{
   display: flex;
     margin-right: 50px;
@@ -195,21 +216,25 @@ p{
     height: 500px;
     line-height: 1.42857143;
 }
+/* comment */
 .divy div{
   height: 500px;
 }
+/* comment */
 .divy p {
   font-size: 0.8125em;
   font-weight: 400;
   font-family: Roboto, Arial, sans-serif;
   color: #747474;
 }
+/* comment */
 .first2 {
     display: flex;
     flex-direction: column;
     margin-top: 20px;
     margin-right: 20px;
 }
+/* comment */
 .divy h3{
   font-size: 1.8461538462em;
     color: #00b39b;
@@ -217,6 +242,7 @@ p{
     font-weight: 300;
     letter-spacing: -0.3px;
 }
+/* comment */
 .lead1{
   display: flex;
   flex-direction: column;
@@ -227,10 +253,12 @@ p{
   width: 220px;
   border-radius: 2px;
 }
+/* comment */
 .that{
   width: 25px;
     height: auto;
 }
+/* comment */
 .lead2{
   display: flex;
   flex-direction: column;
@@ -243,12 +271,14 @@ p{
   margin-top: 20px;
     margin-right: 20px;
 }
+/* comment */
 .second2{
   display: flex;
     flex-direction: column;
     margin-top: 20px;
     margin-right: 20px;
 }
+/* comment */
 .lead3{
   display: flex;
   flex-direction: column;
@@ -259,6 +289,7 @@ p{
   width: 220px;
   border-radius: 2px;
 }
+/* comment */
 .lead4{
   display: flex;
   flex-direction: column;
@@ -271,6 +302,7 @@ p{
   margin-top: 20px;
     margin-right: 20px;
 }
+/* comment */
 .beman p{
   margin: 1.6em 0;
     line-height: 1.7142857143;
@@ -279,6 +311,7 @@ p{
     font-family: Roboto, Arial, sans-serif;
     color: #747474;
 }
+/* comment */
 .beman{
   display: flex;
     justify-content: center;
@@ -286,9 +319,11 @@ p{
     padding-top: 70px;
     width: 100%;
 }
+/* comment */
 .thet{
   display: block;
 }
+/* comment */
 .beman h3{
   font-size: 2.1428571429em;
     color: #00b39b;
@@ -303,6 +338,7 @@ p{
     margin-top: 20px;
     margin-bottom: 10px;
 }
+/* comment */
 .section6{
   width: 100%;
     display: flex;
@@ -310,10 +346,12 @@ p{
     gap: 0.5cm;
     justify-content: space-evenly;
 }
+/* comment */
 .section6 div{
   border-radius: 3%;
     margin: 0.44%;
 }
+/* comment */
 .country{
   display: flex;
     justify-content: center;
@@ -324,10 +362,12 @@ p{
     padding-left: 150px;
     padding-right: 150px;
 }
+/* comment */
 .buttons{
   display: flex;
     justify-content: space-between;
 }
+/* comment */
 .section6 button{
   margin-top: 0.5cm;
     display: flex;
@@ -348,12 +388,14 @@ p{
     padding-right: 10px;
     padding-left: 10px;
 }
+/* comment */
 .section7{
   display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 }
+/* comment */
 .section7 h1 {
   font-size: 2.1428571429em;
   color: #333;
@@ -363,6 +405,7 @@ p{
   letter-spacing: -0.3px;
   text-align: center;
 }
+/* comment */
 .section7 button {
   margin-left: 120px;
   background-color: #3d83df;
@@ -379,6 +422,7 @@ p{
   letter-spacing: 0.04em;
   font-size: 12px;
 }
+/* comment */
 footer {
   text-align: center;
   margin-top: 100px;
@@ -388,11 +432,13 @@ footer {
   padding-left: 100px;
   padding-right: 100px;
 }
+/* comment */
 a {
   color: #337ab7;
   text-decoration: none;
   background-color: transparent;
 }
+/* comment */
 h2{
   color: #fff;
 }
